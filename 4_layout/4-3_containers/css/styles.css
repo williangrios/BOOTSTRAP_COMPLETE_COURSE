@@ -36,3 +36,32 @@
         color: cornflowerblue;
     }
  }
+
+ body{
+    background-color: burlywood;
+ }
+
+ /* CONTAINER */
+ .container {
+    background-color: aqua;
+ }
+ /* CONTAINER FLUID */
+ .container-fluid{
+    background-color: bisque;
+  }
+
+ /* CONTAINER BREAKPOINT */
+ .container-sm {
+    border: 2px solid blue ;
+    margin-bottom: 30px;
+ }
+
+ .container-md {
+    border: 2px solid crimson ;
+    margin-bottom: 30px;
+ }
+
+ .container-lg {
+    border: 2px solid chartreuse ;
+    margin-bottom: 30px;
+ }
